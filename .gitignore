@@ -33,3 +33,8 @@ xcuserdata/
 *.iml
 *.log
 *.tmp
+
+# PlatformIO 관련 무시 항목
+.pio/
+.vscode/
+
